@@ -1,0 +1,7 @@
+A squat, timber-framed roadhouse sitting right at the muddy junction where the Triboar Trail splits off from the High Road. It's not much to look at — a sagging shingle roof, a hand-painted sign depicting a broken wagon wheel, and a hitching post that's seen better days — but it's the only proper rest stop for a day's travel in either direction, and the proprietor knows it.
+
+The place is run by **[[Mags Holloway]]**, a stout, no-nonsense human woman in her fifties who keeps a loaded crossbow behind the bar and a surprisingly good stew on the fire. She doesn't ask questions about her patrons' business, but she doesn't tolerate fighting indoors either. The taproom seats maybe thirty people on a good night, packed shoulder-to-shoulder on mismatched benches around heavy oak tables scarred with knife marks and old candle wax.
+
+The Weary Wheel caters to caravan guards, merchant teamsters, and the occasional adventurer heading south toward Phandalin or north to Neverwinter. The ale is cheap, the beds upstairs are just straw pallets in a shared loft, and the stew is better than it has any right to be. On any given evening, you'll hear a mix of trade gossip, tall tales from the road, and muttered complaints about goblins getting bolder along the Triboar Trail.
+
+It's the kind of place where strangers end up sharing a table because there's nowhere else to sit — and sometimes, that's how adventures begin.

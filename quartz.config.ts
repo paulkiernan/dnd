@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "D&D Player Compendium",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -16,8 +16,8 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    baseUrl: "localhost",
+    ignorePatterns: ["private", "templates", ".obsidian", "01 - DM Notes"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
@@ -34,21 +34,21 @@ const config: QuartzConfig = {
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
           dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          secondary: "#863737",
+          tertiary: "#c14343",
+          highlight: "rgba(134, 55, 55, 0.15)",
+          textHighlight: "#c1434388",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#1a1e24",
+          lightgray: "#2f3b4d",
+          gray: "#586477",
+          darkgray: "#bccad8",
+          dark: "#cfd7dd",
+          secondary: "#863737",
+          tertiary: "#c14343",
+          highlight: "rgba(134, 55, 55, 0.25)",
+          textHighlight: "#c1434366",
         },
       },
     },
@@ -59,6 +59,7 @@ const config: QuartzConfig = {
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "git", "filesystem"],
       }),
+      Plugin.Statblock(),
       Plugin.SyntaxHighlighting({
         theme: {
           light: "github-light",
@@ -86,10 +87,7 @@ const config: QuartzConfig = {
       }),
       Plugin.Assets(),
       Plugin.Static(),
-      Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
     ],
   },
 }

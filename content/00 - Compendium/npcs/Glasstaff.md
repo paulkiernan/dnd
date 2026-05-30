@@ -1,0 +1,1 @@
+Rumored leader of the [[The Redbrands]]. Location unknown. Details unknown.
