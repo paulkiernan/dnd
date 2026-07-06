@@ -124,4 +124,9 @@ The party met [[Sister Garaele]] at the shrine and accepted her quest to put a q
 - **[Foundry](https://foundry.paulynomial.com/)** — FoundryVTT for the game
 - **[D&D Beyond](https://www.dndbeyond.com/)** — official PHB / spells / items / monsters
 - **[5eTools (5e.tools)](https://5e.tools/)** — quick reference for spells, items, monsters
-- [[skills|Skills]] · [[conditions|Conditions]] · [[actions|Actions]] · [[damage-types|Damage Types]] · [[senses|Senses]] — quick general-rules references
+- Quick general-rules references:
+	- [[skills|Skills]]
+	- [[conditions|Conditions]]
+	- [[actions|Actions]]
+	- [[damage-types|Damage Types]]
+	- [[senses|Senses]]
